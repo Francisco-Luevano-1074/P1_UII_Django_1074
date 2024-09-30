@@ -1,0 +1,14 @@
+- Crear aplicación luevanoclase_app
+- Comando --> python manage.py startapp luevanoclase_app
+- Creamos el archivo urls.py en luevanoclase_app
+- ![alt text](image.png)
+- En setting.py de P2Clase1074
+- ![alt text](image-1.png)
+- En urls.py de P2Clase1074
+- ![alt text](image-2.png)
+- En urls.py en luevanoclase_app
+- ![alt text](image-3.png)
+- En views.py en luevanoclase_app
+- ![alt text](image-4.png)
+- En urls.py luevanoclase_app
+- 
