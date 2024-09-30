@@ -6,7 +6,7 @@ Configuraciones básicas para trabajar con el FrameWord de Django
 - 3. Abrir terminal de Visual Studio Code
 - 4. Verificar que está Python y su versión en terminal -->python --version
 - 5. Link Visual Studio Code Django --> https://code.visualstudio.com/docs/python/tutorial-django
-- 6. Crear el entorno de trabajo -->
+- 6. Crear el entorno de trabajo --> py -3 -m venv .venv
 - 7. Activar el entorno --> .venv\scripts\activate.bat
 - 8. Seleccionar el intérprete de Python --> presione F1
 - 9. Actualizar --> python -m pip install --upgrade pip
