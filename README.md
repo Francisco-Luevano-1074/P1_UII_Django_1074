@@ -14,4 +14,5 @@ Configuraciones básicas para trabajar con el FrameWord de Django
 - 11. Creando el proyecto --> django-admin startproject webcafe_proy .
 - 12. Realizar migración al proyecto --> python manage.py migrate
 - 13. Ejecutar servidor web --> python manage.py runserver
-- 14. Me trabajó el proyecto 
+- 14. Me trabajó el proyecto
+  15. python .manage.py startapp cafeteria_app
